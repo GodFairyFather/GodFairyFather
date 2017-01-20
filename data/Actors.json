@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"tutti","characterIndex":0,"characterName":"tutti","classId":1,"equips":[18,0,2,183],"faceIndex":0,"faceName":"tutti","traits":[],"initialLevel":1,"maxLevel":99,"name":"つっちー","nickname":"","note":"<Passive State: 16>","profile":"防御魔法を得意とする青年。あらゆる力を吸収可能。\n動物によく好かれ、会話することができる。"},
+{"id":2,"battlerName":"guttyan","characterIndex":0,"characterName":"guttyan","classId":3,"equips":[34,1,2,187],"faceIndex":0,"faceName":"guttyan","traits":[],"initialLevel":2,"maxLevel":99,"name":"ぐっちゃん","nickname":"","note":"<Passive State: 17>","profile":"医学の心得がある戦士。医者の家に生まれたため才能も技術も\n持ち合わせているが、本人は医学より戦闘(ガチャ)を好む。"},
+{"id":3,"battlerName":"kei","characterIndex":0,"characterName":"kei","classId":2,"equips":[2,0,2,185],"faceIndex":0,"faceName":"kei","traits":[],"initialLevel":1,"maxLevel":99,"name":"けい","nickname":"","note":" <Passive State: 15>","profile":"かつて世に名をはせた３英雄の一人。記憶や力を\n無くしながらも友を救うため協力な仲間を探している。"},
+{"id":4,"battlerName":"akane","characterIndex":0,"characterName":"akane","classId":7,"equips":[50,0,2,189],"faceIndex":0,"faceName":"akane","traits":[],"initialLevel":9,"maxLevel":99,"name":"あかね","nickname":"","note":" <Passive State: 18>","profile":""},
+{"id":5,"battlerName":"pigbon","characterIndex":0,"characterName":"pigbon","classId":10,"equips":[82,0,0,193],"faceIndex":0,"faceName":"pigbon","traits":[],"initialLevel":14,"maxLevel":99,"name":"ぴぐぼん","nickname":"","note":"<Passive State: 21>","profile":""},
+{"id":6,"battlerName":"tama","characterIndex":0,"characterName":"tama","classId":8,"equips":[0,0,0,195],"faceIndex":0,"faceName":"tama","traits":[],"initialLevel":12,"maxLevel":99,"name":"たまさん","nickname":"","note":"<Passive State: 20>","profile":""},
+{"id":7,"battlerName":"emipuku","characterIndex":0,"characterName":"emipuku","classId":9,"equips":[0,0,0,197],"faceIndex":0,"faceName":"emipuku","traits":[],"initialLevel":17,"maxLevel":99,"name":"えみぷく","nickname":"","note":"<Passive State: 22>","profile":""},
+{"id":8,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":5,"equips":[66,0,0,191],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":9,"maxLevel":99,"name":"モグ","nickname":"","note":"<Passive State: 19>","profile":""},
+{"id":9,"battlerName":"non","characterIndex":0,"characterName":"non","classId":4,"equips":[0,0,0,199],"faceIndex":0,"faceName":"non","traits":[],"initialLevel":22,"maxLevel":99,"name":"のん","nickname":"","note":"<Passive State: 24>","profile":""},
+{"id":10,"battlerName":"Actor1_5","characterIndex":5,"characterName":"Actor1","classId":6,"equips":[0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":23,"maxLevel":99,"name":"てる","nickname":"","note":"<Passive State: 23>","profile":""}
+]
